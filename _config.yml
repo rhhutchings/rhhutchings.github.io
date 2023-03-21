@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Raymond H. Hutchings"
 title_separator          : "-"
 name                     : &name "Raymond H. Hutchings"
-description              : &description "personal description"
+description              : &description "PhD Candidate in Department of Mathematics, Univeristy at Buffalo"
 url                      : https://rhhutchings.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rhhutchings/rhhutchings.github.io"
@@ -87,8 +87,8 @@ author:
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/Raymond-Hutchings"
+  email            : "rhhutchi@buffalo.edu" 
+  researchgate     : "https://www.researchgate.net/profile/Raymond-Hutchings"
   uri              :
   bitbucket        :
   codepen          :
