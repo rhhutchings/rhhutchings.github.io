@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Raymond H. Hutchings"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Raymond H. Hutchings"
-description              : &description "PhD Candidate in Department of Mathematics, Univeristy at Buffalo"
-url                      : "https://rhhutchings.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rhhutchings/rhhutchings.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Raymond Hutchings"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "PhD Candidate and Adjunct Lecturer at <a style="color: black;" href="https://www.buffalo.edu/cas/math.html">Department of Mathematics</a>, University at Buffalo"
-  location         : "Buffalo, NY"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "rhhutchi@buffalo.edu" 
-  researchgate     : "https://www.researchgate.net/profile/Raymond-Hutchings"
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "rhhutchings"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
